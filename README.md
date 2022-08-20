@@ -1,5 +1,7 @@
 
-<img src=""
+<div align="center">
+<img width="400px" src="./img/engenhe logo.png"/>
+</div>
 <div align="center">
 
 <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=ufrb-engenhe-jr&theme=dark" alt="ufrb-engenhe-jr" />
